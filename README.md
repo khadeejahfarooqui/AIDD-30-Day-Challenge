@@ -11,7 +11,7 @@ SPECKit Plus is a simple and clear system that helps you make any project in a p
 This step tells the main purpose of the project.
 Here you write what the project is about, why you are making it, who will use it, and what are the limits.It gives your project a clear direction from the start.
 
-2) /specify 
+#2) /specify 
 In this step you write everything clearly about what you want to build.
 You explain the feature, what it should do, what users want, and how the result should look.So there is no confusion later.
 
