@@ -4,6 +4,7 @@ My submissions for AI-Driven Development 30-Day Challenge
 🌐 AI-Driven Development_30-Day Challenge
 
 ⭐ 1. What is SPECKit Plus?  (Short Note)
+
 SPECKit Plus is a simple and clear system that helps you make any project in a proper way.It tells you how to start a project, how to write details, how to plan everything, and then how to build it step by step.It also saves your thinking and your decisions, so next time you can work faster and better.With SPECKit Plus, every project becomes easy because everything is organized.
 
 *⭐ 2. Short Answers for the 5 Core Concepts*
